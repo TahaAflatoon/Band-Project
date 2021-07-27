@@ -1,9 +1,11 @@
 /*JQuery*/
 $.noConflict()
 jQuery(document).ready(function($) {
+    //search input
     $('.fa-search').click(function() {
         $('.search-input').toggle(500);
     }),
+    //dropdown button
     $('.mobile-dropbtn').click(function() {
         $('.mobile-content').slideToggle(500)
     })
@@ -18,6 +20,7 @@ window.addEventListener('scroll', function() {
         document.querySelector('.header').style.opacity = 1;
     }
 });
+
 //slideshow
 function slideshow() {
     let slideIndex = 0;
