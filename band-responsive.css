@@ -1,7 +1,7 @@
-/* (Responsive)*/
+/* (Responsive) */
 /* Mobile (small) */
 @media screen and (min-width:320px) and (max-width:374px) {
-/*header*/
+/* header */
 .site-links {
     display: none;
 }
@@ -9,12 +9,12 @@
     display: inline-block;
     margin-left: auto;
 }
-/*slideshow*/
+/* slideshow */
 .mySlides img {
     width: 100%;
     height: 535px;
 }
-/*band section*/
+/* band section */
 .band {
     height: auto;
     padding-bottom: 1em;
@@ -28,7 +28,7 @@
     display: flex;
     flex-flow: column wrap;
 }
-/*tour dates*/
+/* tour dates */
 .dates {
     width: 275px;
 }
@@ -39,7 +39,7 @@
     width: 275px;
     text-align: center;
 }
-/*contact*/
+/* contact */
 .contact {
     height: auto;
     padding-bottom: 1.5em;
@@ -61,7 +61,7 @@
 .submit {
     width: 100%;
 }
-/*map image*/
+/* map image */
 .map-img {
     width: 100%;
     height: auto;
