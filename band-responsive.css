@@ -1,367 +1,367 @@
 /* (Responsive) */
 /* Mobile (small) */
 @media screen and (min-width:320px) and (max-width:374px) {
-/* header */
-.site-links {
-    display: none;
-}
-.mobile {
-    display: inline-block;
-    margin-left: auto;
-}
-/* slideshow */
-.mySlides img {
-    width: 100%;
-    height: 535px;
-}
-/* band section */
-.band {
-    height: auto;
-    padding-bottom: 1em;
-}
-.band-info {
-    width: auto;
-    text-align: center;
-}
-.band-people {
-    margin-top: 2em;
-    display: flex;
-    flex-flow: column wrap;
-}
-/* tour dates */
-.dates {
-    width: 275px;
-}
-.tour-images {
-    width: 275px;
-}
-.tour-locations figcaption {
-    width: 275px;
-    text-align: center;
-}
-/* contact */
-.contact {
-    height: auto;
-    padding-bottom: 1.5em;
-}
-.address {
-    width: 100%;
-    height: auto;
-}
-.form {
-    width: 100%;
-}
-.form-inputs {
-    width: 100%;
-}
-#form-message {
-    width: 100%;
-    margin: 5px 0 0 0;
-}
-.submit {
-    width: 100%;
-}
-/* map image */
-.map-img {
-    width: 100%;
-    height: auto;
-}
+    /* header */
+    .site-links {
+        display: none;
+    }
+    .mobile {
+        display: inline-block;
+        margin-left: auto;
+    }
+    /* slideshow */
+    .mySlides img {
+        width: 100%;
+        height: 535px;
+    }
+    /* band section */
+    .band {
+        height: auto;
+        padding-bottom: 1em;
+    }
+    .band-info {
+        width: auto;
+        text-align: center;
+    }
+    .band-people {
+        margin-top: 2em;
+        display: flex;
+        flex-flow: column wrap;
+    }
+    /* tour dates */
+    .dates {
+        width: 275px;
+    }
+    .tour-images {
+        width: 275px;
+    }
+    .tour-locations figcaption {
+        width: 275px;
+        text-align: center;
+    }
+    /* contact */
+    .contact {
+        height: auto;
+        padding-bottom: 1.5em;
+    }
+    .address {
+        width: 100%;
+        height: auto;
+    }
+    .form {
+        width: 100%;
+    }
+    .form-inputs {
+        width: 100%;
+    }
+    #form-message {
+        width: 100%;
+        margin: 5px 0 0 0;
+    }
+    .submit {
+        width: 100%;
+    }
+    /* map image */
+    .map-img {
+        width: 100%;
+        height: auto;
+    }
 }
 
 /* Mobile (medium) */
 @media screen and (min-width:375px) and (max-width:424px) {
-/*header*/
-.site-links {
-    display: none;
-}
-.mobile {
-    display: inline-block;
-    margin-left: auto;
-}
-/*slideshow*/
-.mySlides img {
-    width: 100%;
-    height: 535px;
-}
-/*band section*/
-.band {
-    height: auto;
-    padding-bottom: 1em;
-}
-.band-info {
-    width: auto;
-    text-align: center;
-}
-.band-people {
-    margin-top: 2em;
-    display: flex;
-    flex-flow: column wrap;
-}
-/*tour dates*/
-.dates {
-    width: 325px;
-}
-.tour-images {
-    width: 325px;
-}
-.tour-locations figcaption {
-    width: 325px;
-    text-align: center;
-}
-/*contact*/
-.contact {
-    height: auto;
-    padding-bottom: 1.5em;
-}
-.address {
-    width: 100%;
-    height: auto;
-}
-.form {
-    width: 100%;
-}
-.form-inputs {
-    width: 100%;
-}
-#form-message {
-    width: 100%;
-    margin: 5px 0 0 0;
-}
-.submit {
-    width: 100%;
-}
-/*map image*/
-.map-img {
-    width: 100%;
-    height: auto;
-}
+    /*header*/
+    .site-links {
+        display: none;
+    }
+    .mobile {
+        display: inline-block;
+        margin-left: auto;
+    }
+    /*slideshow*/
+    .mySlides img {
+        width: 100%;
+        height: 535px;
+    }
+    /*band section*/
+    .band {
+        height: auto;
+        padding-bottom: 1em;
+    }
+    .band-info {
+        width: auto;
+        text-align: center;
+    }
+    .band-people {
+        margin-top: 2em;
+        display: flex;
+        flex-flow: column wrap;
+    }
+    /*tour dates*/
+    .dates {
+        width: 325px;
+    }
+    .tour-images {
+        width: 325px;
+    }
+    .tour-locations figcaption {
+        width: 325px;
+        text-align: center;
+    }
+    /*contact*/
+    .contact {
+        height: auto;
+        padding-bottom: 1.5em;
+    }
+    .address {
+        width: 100%;
+        height: auto;
+    }
+    .form {
+        width: 100%;
+    }
+    .form-inputs {
+        width: 100%;
+    }
+    #form-message {
+        width: 100%;
+        margin: 5px 0 0 0;
+    }
+    .submit {
+        width: 100%;
+    }
+    /*map image*/
+    .map-img {
+        width: 100%;
+        height: auto;
+    }
 }
 
 /* Mobile (large) */
 @media screen and (min-width:425px) and (max-width:575px) {
-/*header*/
-.site-links {
-    display: none;
-}
-.mobile {
-    display: inline-block;
-    margin-left: auto;
-}
-/*slideshow*/
-.mySlides img {
-    width: 100%;
-    height: 535px;
-}
-/*band section*/
-.band {
-    height: auto;
-    padding-bottom: 1em;
-}
-.band-info {
-    width: auto;
-    text-align: center;
-}
-.band-people {
-    margin-top: 2em;
-    display: flex;
-    flex-flow: column wrap;
-}
-.band-images {
-    width: 225px;
-}
-/*tour dates*/
-.tour-locations {
-    display: flex;
-    flex-flow: column wrap;
-    justify-content: space-around;
-    align-content: center;
-}
-.dates {
-    width: 375px;
-}
-.tour-images {
-    width: 375px;
-}
-.tour-locations figcaption {
-    width: 375px;
-    text-align: center;
-}
-/*contact*/
-.contact {
-    height: auto;
-    padding-bottom: 1.5em;
-}
-.address {
-    width: 100%;
-    height: auto;
-}
-.form {
-    width: 100%;
-}
-.form-inputs {
-    width: 100%;
-}
-#form-message {
-    width: 100%;
-    margin: 5px 0 0 0;
-}
-.submit {
-    width: 100%;
-}
-/*map image*/
-.map-img {
-    width: 100%;
-    height: auto;
-}
+    /*header*/
+    .site-links {
+        display: none;
+    }
+    .mobile {
+        display: inline-block;
+        margin-left: auto;
+    }
+    /*slideshow*/
+    .mySlides img {
+        width: 100%;
+        height: 535px;
+    }
+    /*band section*/
+    .band {
+        height: auto;
+        padding-bottom: 1em;
+    }
+    .band-info {
+        width: auto;
+        text-align: center;
+    }
+    .band-people {
+        margin-top: 2em;
+        display: flex;
+        flex-flow: column wrap;
+    }
+    .band-images {
+        width: 225px;
+    }
+    /*tour dates*/
+    .tour-locations {
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: space-around;
+        align-content: center;
+    }
+    .dates {
+        width: 375px;
+    }
+    .tour-images {
+        width: 375px;
+    }
+    .tour-locations figcaption {
+        width: 375px;
+        text-align: center;
+    }
+    /*contact*/
+    .contact {
+        height: auto;
+        padding-bottom: 1.5em;
+    }
+    .address {
+        width: 100%;
+        height: auto;
+    }
+    .form {
+        width: 100%;
+    }
+    .form-inputs {
+        width: 100%;
+    }
+    #form-message {
+        width: 100%;
+        margin: 5px 0 0 0;
+    }
+    .submit {
+        width: 100%;
+    }
+    /*map image*/
+    .map-img {
+        width: 100%;
+        height: auto;
+    }
 }
 
 /* Size (small) */
 @media screen and (min-width:576px) and (max-width:767px) {
-/*header*/
-.site-links {
-    display: none;
-}
-.mobile {
-    display: inline-block;
-    margin-left: auto;
-}
-/*slideshow*/
-.mySlides img {
-    width: 100%;
-    height: 535px;
-}
-/*band section*/
-.band {
-    height: auto;
-    padding-bottom: 1em;
-}
-.band-info {
-    width: auto;
-    text-align: center;
-}
-.band-people {
-    margin-top: 2em;
-    display: flex;
-    flex-flow: column wrap;
-}
-/*band section*/
-.band-images {
-    width: 250px;
-    height: 250px;
-}
-/*tour dates*/
-.tour-locations {
-    display: flex;
-    flex-flow: column wrap;
-    justify-content: space-around;
-    align-content: center;
-}
-.dates {
-    width: 475px;
-}
-.tour-images {
-    width: 475px;
-}
-.tour-locations figcaption {
-    width: 475px;
-    text-align: center;
-}
-/*contact*/
-.contact {
-    height: auto;
-    padding-bottom: 1.5em;
-}
-.address {
-    width: 100%;
-    height: auto;
-}
-.form {
-    width: 100%;
-}
-.form-inputs {
-    width: 100%;
-}
-#form-message {
-    width: 100%;
-    margin: 5px 0 0 0;
-}
-.submit {
-    width: 100%;
-}
-/*map image*/
-.map-img {
-    width: 100%;
-    height: auto;
-}
+    /*header*/
+    .site-links {
+        display: none;
+    }
+    .mobile {
+        display: inline-block;
+        margin-left: auto;
+    }
+    /*slideshow*/
+    .mySlides img {
+        width: 100%;
+        height: 535px;
+    }
+    /*band section*/
+    .band {
+        height: auto;
+        padding-bottom: 1em;
+    }
+    .band-info {
+        width: auto;
+        text-align: center;
+    }
+    .band-people {
+        margin-top: 2em;
+        display: flex;
+        flex-flow: column wrap;
+    }
+    /*band section*/
+    .band-images {
+        width: 250px;
+        height: 250px;
+    }
+    /*tour dates*/
+    .tour-locations {
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: space-around;
+        align-content: center;
+    }
+    .dates {
+        width: 475px;
+    }
+    .tour-images {
+        width: 475px;
+    }
+    .tour-locations figcaption {
+        width: 475px;
+        text-align: center;
+    }
+    /*contact*/
+    .contact {
+        height: auto;
+        padding-bottom: 1.5em;
+    }
+    .address {
+        width: 100%;
+        height: auto;
+    }
+    .form {
+        width: 100%;
+    }
+    .form-inputs {
+        width: 100%;
+    }
+    #form-message {
+        width: 100%;
+        margin: 5px 0 0 0;
+    }
+    .submit {
+        width: 100%;
+    }
+    /*map image*/
+    .map-img {
+        width: 100%;
+        height: auto;
+    }
 }
 
 /* Tablet */
 @media screen and (min-width:768px) and (max-width:991px) {
-/*slideshow*/
-.mySlides img {
-    width: 100%;
-    height: 535px;
-}
-/*band section*/
-.band {
-    height: auto;
-    padding-bottom: 1em;
-}
-.band-info {
-    width: auto;
-}
-.band-images {
-    width: 300px;
-    height: 300px;
-}
-/*tour dates*/
-.tour-locations {
-    display: flex;
-    flex-flow: column wrap;
-    justify-content: space-around;
-    align-content: center;
-}
-.dates {
-    width: 600px;
-}
-.tour-images {
-    width: 600px;
-}
-.tour-locations figcaption {
-    width: 600px;
-    text-align: center;
-}
-/*contact*/
-.contact {
-    height: auto;
-    padding-bottom: 1.5em;
-}
-.address {
-    width: 100%;
-    height: auto;
-}
-.form {
-    width: 100%;
-}
-.form-inputs {
-    width: 100%;
-}
-#form-message {
-    width: 100%;
-    margin: 5px 0 0 0;
-}
-.submit {
-    width: 100%;
-}
+    /*slideshow*/
+    .mySlides img {
+        width: 100%;
+        height: 535px;
+    }
+    /*band section*/
+    .band {
+        height: auto;
+        padding-bottom: 1em;
+    }
+    .band-info {
+        width: auto;
+    }
+    .band-images {
+        width: 300px;
+        height: 300px;
+    }
+    /*tour dates*/
+    .tour-locations {
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: space-around;
+        align-content: center;
+    }
+    .dates {
+        width: 600px;
+    }
+    .tour-images {
+        width: 600px;
+    }
+    .tour-locations figcaption {
+        width: 600px;
+        text-align: center;
+    }
+    /*contact*/
+    .contact {
+        height: auto;
+        padding-bottom: 1.5em;
+    }
+    .address {
+        width: 100%;
+        height: auto;
+    }
+    .form {
+        width: 100%;
+    }
+    .form-inputs {
+        width: 100%;
+    }
+    #form-message {
+        width: 100%;
+        margin: 5px 0 0 0;
+    }
+    .submit {
+        width: 100%;
+    }
 }
 
 /* Laptop (medium)*/
 @media screen and (min-width:992px) and (max-width:1199px) {
-/*slideshow*/
-.mySlides img {
-    width: 100%;
-    height: 650px;
-}
+    /*slideshow*/
+    .mySlides img {
+        width: 100%;
+        height: 650px;
+    }
 }
 
 /* Laptop (large) */
